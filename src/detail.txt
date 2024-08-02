@@ -1,0 +1,11 @@
+https://api.edamam.com/search?q='burger'&app_id=e19f5198&app_key=56e557f444c003d975bfe388114ce6b2
+
+
+
+	— key
+ id
+ 56e557f444c003d975bfe388114ce6b2	
+
+
+
+e19f5198

@@ -1,0 +1,11 @@
+
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(3,auto);
+}
+.navbar-brand{
+  font-family:fantasy;
+
+}
